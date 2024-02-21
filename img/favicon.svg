@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="92.370041mm"
+   height="59.959892mm"
+   viewBox="0 0 92.370041 59.959892"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="logo200.png"
+   inkscape:export-xdpi="49.325672"
+   inkscape:export-ydpi="49.325672"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#ffffffff" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-58.814977,-123.42462)">
+    <g
+       id="g1"
+       transform="matrix(0.80532525,0,0,0.63527465,29.431907,66.884983)">
+      <text
+         xml:space="preserve"
+         style="font-size:79.7973px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#0693e3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.28981;stroke-opacity:0.847059;paint-order:markers stroke fill"
+         x="54.142754"
+         y="194.80913"
+         id="text4"
+         transform="scale(1.179575,0.84776296)"
+         inkscape:export-filename=".\text4.png"
+         inkscape:export-xdpi="11.338437"
+         inkscape:export-ydpi="11.338437"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="fill:#0693e3;fill-opacity:1;stroke-width:1.28981"
+           x="54.142754"
+           y="194.80913">S</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:88.8208px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#0693e3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.43566;stroke-opacity:0.847059;paint-order:markers stroke fill"
+         x="59.140995"
+         y="152.56271"
+         id="text3"
+         transform="scale(1.0597428,0.94362519)"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="fill:#0693e3;fill-opacity:1;stroke-width:1.43566"
+           x="59.140995"
+           y="152.56271">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:72.8836px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#094293;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.17807;stroke-opacity:0.847059;paint-order:markers stroke fill"
+         x="19.233461"
+         y="255.88774"
+         id="text5"
+         transform="scale(2.1634869,0.4622168)"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="fill:#094293;fill-opacity:1;stroke-width:1.17807"
+           x="19.233461"
+           y="255.88774">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:18.2374px;font-family:Garamond;-inkscape-font-specification:Garamond;fill:#ff5b5b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.294784;stroke-opacity:0.847059;paint-order:markers stroke fill"
+         x="56.746815"
+         y="117.08482"
+         id="text9"
+         transform="scale(0.64074851,1.5606747)"><tspan
+           sodipodi:role="line"
+           id="tspan9"
+           style="fill:#ff5b5b;fill-opacity:1;stroke-width:0.294784"
+           x="56.746815"
+           y="117.08482">DIGITAL SOLUTIONS</tspan></text>
+    </g>
+  </g>
+</svg>
